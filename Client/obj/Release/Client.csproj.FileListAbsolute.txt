@@ -1,0 +1,8 @@
+D:\VOC\Client\Client\bin\Release\Client.exe.config
+D:\VOC\Client\Client\bin\Release\Client.exe
+D:\VOC\Client\Client\bin\Release\Client.pdb
+D:\VOC\Client\Client\obj\Release\Client.Form1.resources
+D:\VOC\Client\Client\obj\Release\Client.Properties.Resources.resources
+D:\VOC\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+D:\VOC\Client\Client\obj\Release\Client.exe
+D:\VOC\Client\Client\obj\Release\Client.pdb

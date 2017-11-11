@@ -1,0 +1,42 @@
+D:\VOC\Client\Client\bin\Debug\Client.exe.config
+D:\VOC\Client\Client\bin\Debug\Client.exe
+D:\VOC\Client\Client\bin\Debug\Client.pdb
+D:\VOC\Client\Client\obj\Debug\Client.frmMain.resources
+D:\VOC\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\VOC\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\VOC\Client\Client\obj\Debug\Client.exe
+D:\VOC\Client\Client\obj\Debug\Client.pdb
+D:\backup\call AGV\ver 1002\Client\Client\bin\Debug\Client.exe.config
+D:\backup\call AGV\ver 1002\Client\Client\obj\Debug\Client.exe
+D:\backup\call AGV\ver 1002\Client\Client\obj\Debug\Client.pdb
+D:\Quyet\AGV\ver 1002\Client\Client\bin\Debug\Client.exe.config
+D:\Quyet\AGV\ver 1002\Client\Client\bin\Debug\Client.exe
+D:\Quyet\AGV\ver 1002\Client\Client\bin\Debug\Client.pdb
+D:\Quyet\AGV\ver 1002\Client\Client\obj\Debug\Client.frmAbout.resources
+D:\Quyet\AGV\ver 1002\Client\Client\obj\Debug\Client.frmMain.resources
+D:\Quyet\AGV\ver 1002\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Quyet\AGV\ver 1002\Client\Client\obj\Debug\Client.frmReport.resources
+D:\Quyet\AGV\ver 1002\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Quyet\AGV\ver 1002\Client\Client\obj\Debug\Client.exe
+D:\Quyet\AGV\ver 1002\Client\Client\obj\Debug\Client.pdb
+D:\Quyet\AGV\ver 1002\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\ver 1003\Client\Client\bin\Debug\Client.exe.config
+F:\ver 1003\Client\Client\obj\Debug\Client.exe
+F:\ver 1003\Client\Client\obj\Debug\Client.pdb
+F:\ver 1003\Client\Client\bin\Debug\Client.exe
+F:\ver 1003\Client\Client\bin\Debug\Client.pdb
+F:\ver 1003\Client\Client\obj\Debug\Client.frmAbout.resources
+F:\ver 1003\Client\Client\obj\Debug\Client.frmMain.resources
+F:\ver 1003\Client\Client\obj\Debug\Client.Properties.Resources.resources
+F:\ver 1003\Client\Client\obj\Debug\Client.frmReport.resources
+F:\ver 1003\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Quyet\AGV\ver 1003\Client\Client\bin\Debug\Client.exe.config
+D:\Quyet\AGV\ver 1003\Client\Client\bin\Debug\Client.exe
+D:\Quyet\AGV\ver 1003\Client\Client\bin\Debug\Client.pdb
+D:\Quyet\AGV\ver 1003\Client\Client\obj\Debug\Client.frmAbout.resources
+D:\Quyet\AGV\ver 1003\Client\Client\obj\Debug\Client.frmMain.resources
+D:\Quyet\AGV\ver 1003\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Quyet\AGV\ver 1003\Client\Client\obj\Debug\Client.frmReport.resources
+D:\Quyet\AGV\ver 1003\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Quyet\AGV\ver 1003\Client\Client\obj\Debug\Client.exe
+D:\Quyet\AGV\ver 1003\Client\Client\obj\Debug\Client.pdb
